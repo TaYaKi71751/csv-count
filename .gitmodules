@@ -1,0 +1,4 @@
+[submodule "dependencies/string-number"]
+	path = dependencies/string-number
+	url = https://github.com/TaYaKi71751/string-number
+	branch = add-sub-integer
