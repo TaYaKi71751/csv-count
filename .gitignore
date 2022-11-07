@@ -1,0 +1,6 @@
+peda-session-*.txt
+
+**.h.gch
+**.gch
+**.out
+**.o
